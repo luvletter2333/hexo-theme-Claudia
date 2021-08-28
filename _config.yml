@@ -6,7 +6,7 @@ menu:
 
 widgets:
   - tag
-  - archive
+#  - archive
   - recent_posts
   - category
   - profile
@@ -14,23 +14,23 @@ widgets:
 # social config
 social:
   zhihu:
-  twitter: /
-  facebook: /
+  twitter: /Haruhi_Smith
+  facebook: 
   linkedin:
-  instagram: /
-  github: haojen
+  instagram: 
+  github: luvletter2333
 
 user:
-  name: Haojen
-  avatar: /images/avatar.jpg
-  location: In the dust
-  description: May the Force be with you
-  footnotes: # footnotes
+  name: luvletter2333
+  avatar: /images/Haruhi_bykuma.jpg
+  location: 
+  description: Luv Letter, or Haruhi
+  footnotes: #
 
 # documents: https://github.com/utterance/utterances
 # API config: https://utteranc.es/
 comment_utteranc:
-  enable: true
+  enable: false
   repo: Haojen/Claudia-theme-blog # your blog repo
 
 
